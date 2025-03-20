@@ -1,0 +1,1 @@
+python ai_stream.py | python markdown_render.py
